@@ -1,0 +1,19 @@
+{
+  "name": "text-generator",
+  "version": "0.1.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/butterfly-project/text-generator.git"
+  },
+  "author": "Marat Fakhertdinov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/butterfly-project/text-generator/issues"
+  },
+  "homepage": "https://github.com/butterfly-project/text-generator#readme"
+}
